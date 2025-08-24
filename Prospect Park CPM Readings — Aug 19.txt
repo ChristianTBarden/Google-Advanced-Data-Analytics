@@ -1,0 +1,20 @@
+Prospect Park CPM Readings — Aug 19 2025
+-------------------------------------
+count    61.000000
+mean     18.557377
+std       4.599002
+min      10.000000
+25%      15.000000
+50%      19.000000
+75%      22.000000
+max      30.000000
+
+Category counts:
+Category
+Safe:    61
+
+Regression R^2: 0.092
+
+On Aug 19 2025, CPM readings across North, South & East of Prospect Park averaged 18, with a median of 19. [Out of a sample of 61]
+Values ranged from a minimum of 10 to a maximum of 30, with a standard deviation of 4.
+All values fell in the Safe range (<50 CPM). CPM, or counts per minute, measures the amount of alpha, beta, and gamma particles in a given area. Checking CPM levels in places like Prospect Park helps maintain public safety. These types of radiation can cause cancer, tissue damage and death. Luckily, all 61 readings are within a normal range. So, it's likely no one contaminated prospect park Homer Simpson style with radioactive waste.
